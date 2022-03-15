@@ -1,0 +1,18 @@
+Capstone Project
+
+Idea: Acroman
+Pitch: An adventure word game based on acronyms.
+
+MVP:
+* A log in functionality for multiple users and accounts.
+* Multiple pages each representing a new word problem/question in the overall same story.
+* Each page has a unique problem/challenge.
+* Each page has a user answer form.
+* Data base will track all correct answers and users.
+* On submit user will get feedback if correct or incorrect.
+* A hint and assist functionality for users that is limited per game.
+
+Future Features:
+* Problems with multiple correct answers that can lead to alternative story game endings.
+* Advanced animations that visually show movement and 3D features.
+* Save and Load game Functionality.
